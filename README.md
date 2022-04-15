@@ -6,7 +6,10 @@
 
 
 ![Victor Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=victorhenriq3&show_icons=true&theme=material-palenight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorhenriq3&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=material-palenight)
 
+
+# Tecnologias que conheço/trabalho
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -21,4 +24,4 @@
 ![Mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-Desenvolvedor desde 2020, apaixonado por tecnologias e suas diversidades, busco não só evoluir mas aprender sobre as coisas mais grandiosas que esse mundo  pode me oferecer! Tentando sempre ajudar outras pessoas a evoluir e pensar de forma aberta que podemos ir muito longe com a tecnologia!
+Desenvolvedor desde 2020, apaixonado por tecnologia e suas diversidades, busco não só evoluir mas aprender sobre as coisas mais grandiosas que esse mundo da tecnologia pode me oferecer!

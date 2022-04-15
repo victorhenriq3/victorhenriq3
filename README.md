@@ -6,7 +6,7 @@
 
 
 ![Victor Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=victorhenriq3&show_icons=true&theme=material-palenight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorhenriq3&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=material-palenight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorhenriq3&layout=default)](https://github.com/anuraghazra/github-readme-stats&theme=material-palenight)
 
 
 # Tecnologias que conheço/trabalho

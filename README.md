@@ -21,3 +21,5 @@
 ![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+Desenvolvedor desde 2020, apaixonado por tecnologias e suas diversidades, busco não só evoluir mas aprender sobre as coisas mais grandiosas que esse mundo  pode me oferecer! Tentando sempre ajudar outras pessoas a evoluir e pensar de forma aberta que podemos ir muito longe com a tecnologia!

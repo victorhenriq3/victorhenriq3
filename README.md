@@ -24,4 +24,4 @@
 ![Mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-Desenvolvedor desde 2020, apaixonado por tecnologia e suas diversidades, busco não só evoluir mas aprender sobre as coisas mais grandiosas que esse mundo da tecnologia pode me oferecer!
+Desenvolvedor apaixonado por tecnologia e suas diversidades, busco não só evoluir mas aprender sobre as coisas mais grandiosas que esse mundo pode me oferecer!
